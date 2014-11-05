@@ -1,4 +1,7 @@
-# Webcam-Arcade
+Webcam-Arcade
+=============
+APCS Final Project -- Spring '14  
+Junhao Dong & Eric Chen
 
 Games that involve image processing through the webcam.
 
@@ -17,13 +20,7 @@ __Drawing__
 - Once you enter the draw screen, press any key besides 'z' and 'r' to draw a rectangle
 - Draw screen supports undo and redo. Press __z__ to undo and __r__ to redo
 
-__Pong__
-- 
-
-
-## Classes, Algorithms, Data Structures, etc...
-
-#### Hierarchy and Class Descriptions
+## Hierarchy and Class Descriptions
 
 __Driver__
 - Entrance to the program
@@ -46,7 +43,7 @@ __DrawScreen__
 __PongScreen__
 - Classic Pong game
 
-#### Algorithms
+## Algorithms
 
 __Mean Shift Algorithm__
 - Separate colors into RGB (red green blue)
